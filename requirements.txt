@@ -1,0 +1,10 @@
+flask
+openai
+diffusers
+transformers
+accelerate
+torch
+safetensors
+Pillow
+python-dotenv
+flask-mail
